@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (GURU-BOT)",
-  "description": " Whatsapp bot.",
+  "name": "whatsapp-bot (AVIORA-BOT)",
+  "description": "Whatsapp bot by Fashola Ayomide.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/Guru322/GURU-BOT",
+  "repository": "https://github.com/aeon2006/Aviora-burti",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
@@ -73,4 +73,3 @@
     }
   ]
 }
-
