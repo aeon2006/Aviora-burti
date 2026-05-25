@@ -1,5 +1,5 @@
 {
-    "name": "gurubot",
+    "name": "aviora-bot",
     "version": "2.0.0",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
@@ -19,22 +19,22 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "guru-bot",
-        "GURU-bot-md",
+        "aviora-bot",
+        "AVIORA-bot-md",
         "multi-device",
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "https://github.com/aeon2006/Aviora-burti",
     "author": {
-        "name": "GURU"
+        "name": "Fashola Ayomide"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Guru322/GURU-BOT.git"
+        "url": "git+https://github.com/aeon2006/Aviora-burti.git"
     },
     "bugs": {
-        "url": "https://github.com/Guru322/GURU-BOT/issues"
+        "url": "https://github.com/aeon2006/Aviora-burti/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
