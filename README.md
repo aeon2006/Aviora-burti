@@ -112,6 +112,11 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 
 - Star ⭐ the repo if you like AVIORA-BOT.
 
+## 📞 Contact Information
+
+**Phone:** +2349060450854  
+**Email:** afashola92@gmail.com
+
 ## CREDITS 
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
 <a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
