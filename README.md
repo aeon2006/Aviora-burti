@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg">
+    <img alt="Fashola Ayomide" height="300" src="https://imgur.com/a/fashola-ayomide">
     <h1 align="center">AVIORA-BOT</h1>
   </a>
 </p>
@@ -127,7 +127,7 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 
 
 ## `Main Dev` 
-<a href="https://github.com/aeon2006"><img src="https://github.com/aeon2006.png" width="250" height="250" alt="Fashola Ayomide"/></a>
+<img src="https://imgur.com/a/fashola-ayomide" width="250" height="250" alt="Fashola Ayomide"/>
    
 `AVIORA-BOT - By Fashola Ayomide`
 
